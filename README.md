@@ -15,3 +15,8 @@
 - [ ] 软件会在当前文件夹生成`xcat.pwd`，欲将其嵌入到软件中，成为彻底的「单文件」；
 - [ ] MORE...
 
+## 打赏
+| 类型 | 原作者[@ttyp](https://github.com/ttyp) | 鴻塵[@hwame](https://github.com/hwame) |
+| :--: | :--: | :--: |
+| 微信 | ![原作者微信](https://cdn.jsdelivr.net/gh/ttyp/xcat-pwd@master/Asset/image/wx.png) | ![鴻塵微信](https://cdn.jsdelivr.net/gh/hwame/password-manager@main/Asset/image/wx.png) |
+| 支付宝 | ![原作者支付宝](https://cdn.jsdelivr.net/gh/ttyp/xcat-pwd@master/Asset/image/zfb.png) | ![鴻塵支付宝](https://cdn.jsdelivr.net/gh/hwame/password-manager@main/Asset/image/zfb.png) |
