@@ -1,5 +1,5 @@
 ## 密码管理软件
-基于C#的密码管理软件，修改自[@ttyp](https:/https://github.com/ttyp)，原打包的exe单文件会被安全软件报毒，故fork了[ttyp](https:/https://github.com/ttyp)的[xcat-pwd项目](https://github.com/ttyp/xcat-pwd)，修改了部分代码、增加了部分信息，重新编译打包，没有报毒。
+基于C#的密码管理软件，修改自[@ttyp](https://github.com/ttyp)，原打包的exe单文件会被安全软件报毒，故fork了[ttyp](https://github.com/ttyp)的[xcat-pwd项目](https://github.com/ttyp/xcat-pwd)，修改了部分代码、增加了部分信息，重新编译打包，没有报毒。
 
 
 ## 修改的部分
@@ -10,5 +10,8 @@
 
 ## 尚待改进的地方
 - [ ] 各列宽度自适应；
-- [ ] 增加搜索筛选功能；
-- [ ] `id`是根据创建「密码项」的顺序决定的，
+- [ ] 增加排序、搜索、筛选功能；
+- [ ] `id`是根据创建「密码项」的顺序决定的，在显示上比较杂乱；
+- [ ] 软件会在当前文件夹生成`xcat.pwd`，欲将其嵌入到软件中，成为彻底的「单文件」；
+- [ ] MORE...
+
